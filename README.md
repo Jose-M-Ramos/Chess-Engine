@@ -1,7 +1,7 @@
 # Chess-Engine
 
 <p align="center">
-  <img src="https://github.com/Jose-M-Ramos/Chess-Engine/blob/main/chess-board-with-piece-illustration-template-icons-graphic-design-flat-background-with-silhouette-black-and-white-chess-piece-and-color-wood-board-vector.jpg" width="800" height="400">
+  <img src="https://github.com/Jose-M-Ramos/Chess-Engine/blob/main/chess-board-with-piece-illustration-template-icons-graphic-design-flat-background-with-silhouette-black-and-white-chess-piece-and-color-wood-board-vector.jpg" width="300" height="300">
 </p>
 
 ## Acknowledgement 
